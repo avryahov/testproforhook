@@ -15,3 +15,8 @@ Launcher JVM:  17.0.13 (BellSoft 17.0.13+12-LTS)
 Daemon JVM:    /Users/avrjakhov/Library/Java/JavaVirtualMachines/liberica-17.0.13 (no JDK specified, using current Java home)
 OS:            Mac OS X 14.7.1 aarch64
 
+Apache Maven 3.9.8 (36645f6c9b5079805ea5009217e36f2cffd34256)
+Maven home: /opt/homebrew/Cellar/maven/3.9.8/libexec
+Java version: 17.0.13, vendor: BellSoft, runtime: /Users/avrjakhov/Library/Java/JavaVirtualMachines/liberica-17.0.13
+Default locale: ru_RU, platform encoding: UTF-8
+OS name: "mac os x", version: "14.7.1", arch: "aarch64", family: "mac"
